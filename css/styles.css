@@ -1,7 +1,7 @@
 /* Use this file to use your own styles*/
 
 /* Import declaration to use Google Fonts - check https://fonts.google.com/ for details */
-@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url ('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
 
 /* Styles for the body */
 
@@ -14,15 +14,15 @@ body {
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #e0f0ff;
+    background-color: #D4CDB8;
 }
 
 .resume-main {
-	background-color: #fffefc;
+	background-color:#B5987A
 }
 
 .resume-aside {
-	background-color: #fff0e0;
+	background-color: #CEC9C7
 }
 
 /* Styles for lists in the document */
@@ -51,6 +51,6 @@ body {
 }
 
 .assignement {
-	color: aqua;
+	color:#6D655D;
 }
 	
